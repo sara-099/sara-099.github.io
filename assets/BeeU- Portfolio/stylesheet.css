@@ -1,0 +1,169 @@
+@charset "utf-8";
+
+.menu_bar {
+    background-color: #000000;
+    text-decoration: none;
+    font-size: large;
+    width: 50%;
+    margin-left: 50%;
+    padding-top: 43px;
+    color: #FFFFFF;
+  
+}
+.rounded-circle.img-fluid {
+    margin-left: 47px;
+    width: 111px;
+    height: 95px;
+    margin-top: 10px;
+}
+
+
+.body_footer {
+    text-align: center;
+}
+.top_banner {
+    width: 100%;
+    height: 53px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-weight: normal;
+    background-color: #A4A4A4;
+    color: #FFFFFF;
+
+}
+
+.paragraphs {
+    font-size: large;
+    text-align: left;
+    left: 18%;
+    right: 19%;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+
+li {
+    display: inline;
+    color: #000000;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+ul li a:hover {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+.card.col-md-4 .card-img-top {
+    height: 15vw;
+    width: 93%;
+
+}
+
+.card.col-md-4 .card-body .card-title {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card.col-md-4 {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-img-top {
+    width: 100%;
+    height: 19vw;
+    object-fit: cover;
+}
+.rounded-circle.img-fluid {
+    width: 87px;
+    height: 76px;
+    float: left;
+}
+
+.col-lg-4 {
+    margin-left: 300px;
+    background-color: #F5D5EB;
+}
+
+table tr td {
+    border: medium solid #000000;
+}
+body table {
+    margin-left: 51px;
+    margin-right: auto;
+    font-size: x-large;
+    text-align: center;
+    display: block;
+    color: #000000;  
+}
+body section {
+    width: 62%;
+    height: 338px;
+    background-color: #A2A2A2;
+    margin-left: auto;
+    margin-right: auto;
+}
+body section img {
+    width: 320px;
+    height: 215px;
+    display: inline-block;
+    float: right;
+    margin-right: 102px;
+}
+
+
+.about_us_section {
+    width: 100%;
+    height: 116px;
+    background-color: #000000;
+}
+.h2 {
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.img_skincare {
+    width: 300px;
+    margin-right: -48px;
+}
+ul li a {
+    color: #FFFFFF;
+}
+.card_about> {
+}
+.card_about {
+    width: 435px;
+    margin-left: 278px;
+    margin-top: 25px;
+    height: 236px;
+}
+.card_about .card-img-top {
+    height: 436px;
+    width: 449px;
+}
+.circle_about {
+}
+.rounded-circle.circle_about {
+    width: 251px;
+    margin-top: 110px;
+    margin-left: 973px;
+    margin-right: 86px;
+    display: inline-block;
+    float: right;
+}
+.section_about {
+    float: left;
+    margin-top: 96px;
+    background-color: #FFFFFF;
+    margin-left: 53px;
+}
+.section_about p {
+    font-size: x-large;
+    display: inline;
+    float: left;
+}
+.headings_about {
+    text-align: left;
+    margin-left: 90px;
+}
